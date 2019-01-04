@@ -1,1 +1,5 @@
 A que coucou, tu veux voir ma .... ?
+Non ça va merci
+gros sale va !
+A Kadoc
+//Ceci est un commentaire ... même si on est pas en java
