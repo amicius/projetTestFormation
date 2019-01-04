@@ -8,3 +8,5 @@ A Kadoc
 //Ceci est un commentaire ... même si on est pas en java
 aller un peu de courage
 
+Est-ce qu'on peut s'en servir pour donner de l'élan à un pigeon ?
+A ROULEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEETTE !
